@@ -27,10 +27,12 @@ Subtitle แปลไปได้แล้ว **43%**
 + [Apisara Kongtaworn](https://www.facebook.com/Apisara.k43)
 + [Chanamon Bejraputra](https://www.facebook.com/jan.chanamon)
 + [Chanin Chamnan](https://www.facebook.com/chinznz.chamnan/)
++ [hamstersquad](https://www.facebook.com/onehamstersquad/)
 + [James Evergarden](https://www.facebook.com/profile.php?id=100003894496976)
 + [jaideejung007](https://discuzthai.com/)
-+ [Kun Roonprapant](https://discuzxync.com/community/#)
++ [Kun Roonprapant](#)
 + [may I R0SE](https://instagram.com/mamukyy?igshid=NDk5N2NlZjQ=)
++ [mookthebun](https://www.twitch.tv/mookthebun)
 + [Naruebet Chaipin](https://www.facebook.com/naruebet)
 + [Natsinee Pongsuwan](https://www.facebook.com/nam.pongsuwan/)
 + [Nawaphat S.](#)
@@ -38,7 +40,8 @@ Subtitle แปลไปได้แล้ว **43%**
 + [Phiraphat Sidon](https://www.facebook.com/phiraphats/)
 + [Phurichote C.](#)
 + [Pichaphat Nilavadhanananda](https://www.facebook.com/oilfromnowherex)
-+ [Narisara Yotkhruea](https://www.facebook.com/profile.php?id=100009724057464)
++ [SoLRuN](https://www.facebook.com/profile.php?id=100009724057464)
++ [SimsColony](https://www.facebook.com/SimsColony)
 + [Thamolwan Khumprakob](https://www.facebook.com/jobjab.khumprakob)
 + [Wongpanithan C.](https://instagram.com/niitanc?igshid=NzAzN2Q1NTE=)
 
@@ -50,15 +53,13 @@ Subtitle แปลไปได้แล้ว **43%**
 + Prachamati โดย [Jipatype](https://www.jipatype.com/)
 
 ###### ขอบคุณ Media Partner และที่ปรึกษาที่น่ารักทุกท่าน
-+ [hamstersquad](https://www.facebook.com/onehamstersquad/)
+
   เพจข่าวสาร และทำแปลเกมส์ภาษาไทย
 + [Hogwartslover Homepage](https://www.facebook.com/hogwartsloverhomepage)
   แฟนเพจผู้เชี่ยวชาญด้าน Wizarding World และเว็บข่าว Muggle-V
 + [Mugglethai](https://www.facebook.com/mugglethai.mt)
   Potterhead of Thailand since 2002 🇹🇭 #Mugglethai #มักเกิ้ลไทย
 + [Spider-Translate](https://www.facebook.com/SpiderTranslate)
-  เพจข่าวสาร และทำแปลเกมส์ภาษาไทย
-+ [SimsColony](https://www.facebook.com/SimsColony)
   เพจข่าวสาร และทำแปลเกมส์ภาษาไทย
 + [ทานสเลด](https://www.facebook.com/TransladeThai)
   เพจทำแปลเกมเป็นภาษาไทย
