@@ -13,7 +13,7 @@ Main UI&UX แปลไปได้แล้ว **44%**
 Subtitle แปลไปได้แล้ว **43%**
 **ภาพรวมตอนนี้เท่ากับ 43%**
 
-[![Hogwarts Legacy Thai Localization](https://img.youtube.com/vi/nTNIORUdSe8/maxresdefault.jpg)](https://www.youtube.com/watch?v=nTNIORUdSe8 "Hogwarts Legacy Thai Localization")
+[![Hogwarts Legacy Thai Localization](https://img.youtube.com/vi/nTNIORUdSe8/maxresdefault.jpg)](https://youtu.be/378btirFqQg "Hogwarts Legacy Thai Localization")
 *คำเตือน: เป็นเพียงภาพตัวอย่างเพื่อแสดงถึงความคืบหน้าของการแปลเท่านั้น ถ่อยคำอาจมีการเปลี่ยนแปลงได้เสมอ*
 
 - ไฟล์จริงคาดว่าจะแจกเป็นเวอร์ชั่น Beta ได้เมื่อทุกอย่างครบ 100% แล้วจะมีเวอร์ชั่นที่ผ่านการตรวจทานตามมาภายหลังอีกที
