@@ -9,9 +9,9 @@
 
 ## ความคืบหน้าการแปลภาษาในตอนนี้
 
-Main UI&UX แปลไปได้แล้ว **44%**
-Subtitle แปลไปได้แล้ว **43%**
-**ภาพรวมตอนนี้เท่ากับ 43%**
+Main UI&UX แปลไปได้แล้ว **60%**
+Subtitle แปลไปได้แล้ว **39%**
+**ภาพรวมตอนนี้เท่ากับ 46%**
 
 [![Hogwarts Legacy Thai Localization](https://img.youtube.com/vi/nTNIORUdSe8/maxresdefault.jpg)](https://youtu.be/378btirFqQg "Hogwarts Legacy Thai Localization")
 *คำเตือน: เป็นเพียงภาพตัวอย่างเพื่อแสดงถึงความคืบหน้าของการแปลเท่านั้น ถ่อยคำอาจมีการเปลี่ยนแปลงได้เสมอ*
@@ -49,8 +49,7 @@ Subtitle แปลไปได้แล้ว **43%**
 + [Pingoriginal](https://www.facebook.com/pingpongoriginal) คนทำภาพ #Mugglethai
 
 ###### ขอขอบคุณ Font ไทยสวย ๆ
-+ Noto Sans โดย [Cadson Demak](https://www.cadsondemak.com/)
-+ Prachamati โดย [Jipatype](https://www.jipatype.com/)
++ Kanit และ Noto Sans โดย [Cadson Demak](https://www.cadsondemak.com/)
 
 ###### ขอบคุณ Media Partner และที่ปรึกษาที่น่ารักทุกท่าน
 
