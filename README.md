@@ -44,8 +44,12 @@ Subtitle แปลไปได้แล้ว **42%**
 + [Saksorn Klibaim](https://www.facebook.com/saksorn.glibaim)
 + [SoLRuN](https://www.facebook.com/profile.php?id=100009724057464)
 + [SimsColony](https://www.facebook.com/SimsColony)
++ [Spider-Translate](https://www.facebook.com/SpiderTranslate)
 + [Thamolwan Khumprakob](https://www.facebook.com/jobjab.khumprakob)
 + [Wongpanithan C.](https://instagram.com/niitanc?igshid=NzAzN2Q1NTE=)
++ [ทานสเลด](https://www.facebook.com/TransladeThai)
++ [ว่างๆก็หาเกมมาแปล](https://www.facebook.com/lazymodthai)
++ [แปลเองก็ได้](https://www.facebook.com/translatekordai)
 
 ###### ขอบคุณภาพกราฟฟิกโลโก้สวย ๆ
 + [Pingoriginal](https://www.facebook.com/pingpongoriginal) คนทำภาพ #Mugglethai
@@ -54,17 +58,7 @@ Subtitle แปลไปได้แล้ว **42%**
 + Kanit และ Noto Sans โดย [Cadson Demak](https://www.cadsondemak.com/)
 
 ###### ขอบคุณ Media Partner และที่ปรึกษาที่น่ารักทุกท่าน
-
-  เพจข่าวสาร และทำแปลเกมส์ภาษาไทย
 + [Hogwartslover Homepage](https://www.facebook.com/hogwartsloverhomepage)
   แฟนเพจผู้เชี่ยวชาญด้าน Wizarding World และเว็บข่าว Muggle-V
 + [Mugglethai](https://www.facebook.com/mugglethai.mt)
   Potterhead of Thailand since 2002 🇹🇭 #Mugglethai #มักเกิ้ลไทย
-+ [Spider-Translate](https://www.facebook.com/SpiderTranslate)
-  เพจข่าวสาร และทำแปลเกมส์ภาษาไทย
-+ [ทานสเลด](https://www.facebook.com/TransladeThai)
-  เพจทำแปลเกมเป็นภาษาไทย
-+ [แปลเองก็ได้](https://www.facebook.com/translatekordai)
-  เพจทำแปลเกมส์ภาษาไทย
-+ [ว่างๆก็หาเกมมาแปล](https://www.facebook.com/lazymodthai)
-  เพจทำแปลเกมเป็นภาษาไทย
