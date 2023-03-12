@@ -9,9 +9,9 @@
 
 ## ความคืบหน้าการแปลภาษาในตอนนี้
 
-Main UI&UX แปลไปได้แล้ว **60%**
-Subtitle แปลไปได้แล้ว **39%**
-**ภาพรวมตอนนี้เท่ากับ 46%**
+Main UI&UX แปลไปได้แล้ว **64%**
+Subtitle แปลไปได้แล้ว **42%**
+**ภาพรวมตอนนี้เท่ากับ 50%**
 
 [![Hogwarts Legacy Thai Localization](https://img.youtube.com/vi/nTNIORUdSe8/maxresdefault.jpg)](https://youtu.be/378btirFqQg "Hogwarts Legacy Thai Localization")
 *คำเตือน: เป็นเพียงภาพตัวอย่างเพื่อแสดงถึงความคืบหน้าของการแปลเท่านั้น ถ่อยคำอาจมีการเปลี่ยนแปลงได้เสมอ*
@@ -19,7 +19,7 @@ Subtitle แปลไปได้แล้ว **39%**
 - ไฟล์จริงคาดว่าจะแจกเป็นเวอร์ชั่น Beta ได้เมื่อทุกอย่างครบ 100% แล้วจะมีเวอร์ชั่นที่ผ่านการตรวจทานตามมาภายหลังอีกที
 - ตอนแจกจริง Font อาจจะไม่เหมือนในวีดีโอ
 - Logo ที่เป็นภาษาไทยจะต้องโหลดไฟล์แยกต่างหาก
-- ป้ายร้านค้าภาษาไทยในเกมส์จะเป็นชุดแยกที่คาดว่า น่าจะอยู่ในชุดเดียวกันกับ Logo (ณ วันที่โพสต์ยังไม่สรุป)
+- ป้ายร้านค้าภาษาไทยในเกมส์จะเป็นชุดแยกที่คาดว่า น่าจะอยู่ในชุดเดียวกันกับ Logo (ยังไม่สรุป)
 
 ## === ร่วมมอบประสบการณ์ภาษาไทยโดย ===
 
@@ -39,7 +39,9 @@ Subtitle แปลไปได้แล้ว **39%**
 + [NurShine](#)
 + [Phiraphat Sidon](https://www.facebook.com/phiraphats/)
 + [Phurichote C.](#)
++ [Pun Paramatt](#)
 + [Pichaphat Nilavadhanananda](https://www.facebook.com/oilfromnowherex)
++ [Saksorn Klibaim](https://www.facebook.com/saksorn.glibaim)
 + [SoLRuN](https://www.facebook.com/profile.php?id=100009724057464)
 + [SimsColony](https://www.facebook.com/SimsColony)
 + [Thamolwan Khumprakob](https://www.facebook.com/jobjab.khumprakob)
