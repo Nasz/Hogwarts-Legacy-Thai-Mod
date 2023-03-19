@@ -55,7 +55,8 @@ Subtitle แปลไปได้แล้ว **42%**
 + [Pingoriginal](https://www.facebook.com/pingpongoriginal) คนทำภาพ #Mugglethai
 
 ###### ขอขอบคุณ Font ไทยสวย ๆ
-+ คณิต ศรีราชา และ Noto Sans โดย [คัดสรรดีมาก](https://www.cadsondemak.com/)
++ คณิต และ ศรีราชา โดย [คัดสรรดีมาก](https://www.cadsondemak.com/)
++ Noto Sans Thai โดน [กูเกิล](https://fonts.google.com/noto)
 + เอกเขนก โดย [Book Thanthip](https://www.facebook.com/BookThanthip)
 
 ###### ขอบคุณ Media Partner และที่ปรึกษาที่น่ารักทุกท่าน
