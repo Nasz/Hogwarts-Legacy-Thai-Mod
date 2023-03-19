@@ -1,20 +1,20 @@
 # Hogwarts Legacy Thailand Localization
 
 *รายละเอียดเพิ่มเติมจาก https://tinyurl.com/vssaz9ev*
-> โปรเจคนี้เป็นการร่วมมือกันระหว่างเพจนักม็อดภาษาไทยหลายเพจได้แก่ [SimsColony](https://www.facebook.com/SimsColony), [hamstersquad](https://www.facebook.com/onehamstersquad/), [Spider-Translate](https://www.facebook.com/SpiderTranslate), [ทานสเลด](https://www.facebook.com/TransladeThai) และ [Hogwarts Legacy แปลไทย community](https://www.facebook.com/groups/3187282818202431/) ที่รวมนักแปลทั้งหน้าเก่าหน้าใหม่ ที่สนใจช่วยแปลเกมนี้ เสริมทัพด้วยทีมสาวกแฮรี่ ทางนักม็อดภาษาไทย ได้เปิดให้ผู้ที่สนใจช่วยแปล เข้าร่วมโปรเจคโดยมีการคัดกรองเบื้องต้น และต้องทำข้อสอบนิดหน่อย
+> โปรเจคนี้เป็นการร่วมมือกันระหว่างเพจนักม็อดภาษาไทยหลายเพจได้แก่ [SimsColony](https://www.facebook.com/SimsColony), [hamstersquad](https://www.facebook.com/onehamstersquad/), [Spider-Translate](https://www.facebook.com/SpiderTranslate), [ทานสเลด](https://www.facebook.com/TransladeThai) โดยได้ตั้งกลุ่มที่ชื่อว่า [Hogwarts Legacy แปลไทย community](https://www.facebook.com/groups/3187282818202431/) ขึ้นมาโดยรวมนักแปลทั้งหน้าเก่าหน้าใหม่ที่สนใจช่วยแปลเกมนี้ เสริมทัพด้วยทีมสาวกแฮรี่ ทั้งนี้ทางนักม็อดภาษาไทยได้เปิดให้ผู้ที่สนใจช่วยแปลเข้าร่วมโปรเจคนี้ด้วย โดยมีการคัดกรองเบื้องต้น และต้องทำข้อสอบนิดหน่อย
 
 สนใจช่วยแปล หรือเป็น QA เข้าไปสมัครได้ที่ Discord: https://discord.gg/4YuFKFHh หรือกลุ่มเฟสบุค Hogwarts Legacy แปลไทย: https://www.facebook.com/groups/3187282818202431/
 
-ติดตามข่าวสารเพิ่มเติมได้ที่ https://simscolony.com/ #โปรเจกต์แปลไทย #hogwartslegacy #ฮอกวอตส์เลกาซี
+ติดตามข่าวสารเพิ่มเติมได้ที่ [Hogwarts Legacy แปลไทย](https://www.facebook.com/groups/3187282818202431/) #โปรเจกต์แปลไทย #hogwartslegacy #ฮอกวอตส์เลกาซี
 
 ## ความคืบหน้าการแปลภาษาในตอนนี้
 
-Main UI&UX แปลไปได้แล้ว **64%**
-Subtitle แปลไปได้แล้ว **42%**
-**ภาพรวมตอนนี้เท่ากับ 50%**
+ภาษาในการแสดงผล แปลไปได้แล้ว **70%**
+ภาษาส่วนคำบรรยาย แปลไปได้แล้ว **47%**
+**ภาพรวมตอนนี้เท่ากับ 54%**
 
 [![Hogwarts Legacy Thai Localization](https://img.youtube.com/vi/nTNIORUdSe8/maxresdefault.jpg)](https://youtu.be/378btirFqQg "Hogwarts Legacy Thai Localization")
-*คำเตือน: เป็นเพียงภาพตัวอย่างเพื่อแสดงถึงความคืบหน้าของการแปลเท่านั้น ถ่อยคำอาจมีการเปลี่ยนแปลงได้เสมอ*
+*คำเตือน: เป็นเพียงภาพตัวอย่างเพื่อแสดงถึงความคืบหน้าของการแปลเท่านั้น ถ้อยคำอาจมีการเปลี่ยนแปลงได้เสมอ*
 
 - ทีมคอมมิวนิตี้ยังไม่มีโครงการสำหรับทำพากษ์เสียงภาษาไทย (เนื่องจากยังแปลกันไม่เสร็จ)
 - เวอร์ชั่น Beta จะแจกให้ผู้ที่สนใจร่วมทดสอบเมื่อแปลครบ 100% แล้ว
