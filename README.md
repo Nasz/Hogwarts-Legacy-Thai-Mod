@@ -1,11 +1,8 @@
 # Hogwarts Legacy Thailand Localization
 
-*รายละเอียดเพิ่มเติมจาก https://tinyurl.com/vssaz9ev*
-> โปรเจคนี้เป็นการร่วมมือกันระหว่างเพจนักม็อดภาษาไทยหลายเพจได้แก่ [SimsColony](https://www.facebook.com/SimsColony), [hamstersquad](https://www.facebook.com/onehamstersquad/), [Spider-Translate](https://www.facebook.com/SpiderTranslate), [ทานสเลด](https://www.facebook.com/TransladeThai) โดยได้ตั้งกลุ่มที่ชื่อว่า [Hogwarts Legacy แปลไทย community](https://www.facebook.com/groups/3187282818202431/) ขึ้นมาโดยรวมนักแปลทั้งหน้าเก่าหน้าใหม่ที่สนใจช่วยแปลเกมนี้ เสริมทัพด้วยทีมสาวกแฮรี่ ทั้งนี้ทางนักม็อดภาษาไทยได้เปิดให้ผู้ที่สนใจช่วยแปลเข้าร่วมโปรเจคนี้ด้วย โดยมีการคัดกรองเบื้องต้น และต้องทำข้อสอบนิดหน่อย
+โปรเจคนี้เป็นการร่วมมือกันระหว่างเพจนักม็อดภาษาไทยหลายเพจได้แก่ [SimsColony](https://www.facebook.com/SimsColony), [hamstersquad](https://www.facebook.com/onehamstersquad/), [Spider-Translate](https://www.facebook.com/SpiderTranslate), [ทานสเลด](https://www.facebook.com/TransladeThai) เสริมทัพด้วยเหล่า Potterhead ทั้งนี้ทางนักม็อดภาษาไทยได้เปิดให้ผู้ที่สนใจช่วยแปลเข้าร่วมโปรเจคนี้ด้วย โดยมีการคัดกรองเบื้องต้น และต้องทำข้อสอบนิดหน่อย สนใจช่วยแปล หรือเป็น QA เข้าไปสมัครได้ที่ Discord: https://discord.gg/4YuFKFHh
 
-สนใจช่วยแปล หรือเป็น QA เข้าไปสมัครได้ที่ Discord: https://discord.gg/4YuFKFHh หรือกลุ่มเฟสบุค Hogwarts Legacy แปลไทย: https://www.facebook.com/groups/3187282818202431/
-
-ติดตามข่าวสารเพิ่มเติมได้ที่ [Hogwarts Legacy แปลไทย](https://www.facebook.com/groups/3187282818202431/) #โปรเจกต์แปลไทย #hogwartslegacy #ฮอกวอตส์เลกาซี
+ติดตามข่าวสารเพิ่มเติมได้ที่นี่ #โปรเจกต์แปลไทย #hogwartslegacy #ฮอกวอตส์เลกาซี
 
 ## ความคืบหน้าการแปลภาษาในตอนนี้
 
