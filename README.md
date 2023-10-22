@@ -4,7 +4,7 @@
 
 ภาษาในการแสดงผล แปลไปได้แล้ว **92%**
 ภาษาส่วนคำบรรยาย แปลไปได้แล้ว **70%**
-**ภาพรวมตอนนี้เท่ากับ 77%**
+**ภาพรวมตอนนี้เท่ากับ 78%**
 
 - ทีมคอมมิวนิตี้ยังไม่มีโครงการสำหรับทำพากษ์เสียงภาษาไทย (เนื่องจากยังแปลกันไม่เสร็จ)
 - Font ของที่นี่อาจจะไม่เหมือนที่แจกบน Nexusmod
@@ -37,10 +37,6 @@
 + [Spider-Translate](https://www.facebook.com/SpiderTranslate)
 + [Thamolwan Khumprakob](https://www.facebook.com/jobjab.khumprakob)
 + [Wongpanithan C.](https://instagram.com/niitanc?igshid=NzAzN2Q1NTE=)
-+ [ทานสเลด](https://www.facebook.com/TransladeThai)
-+ [ว่างๆก็หาเกมมาแปล](https://www.facebook.com/lazymodthai)
-+ [แปลไปไกลๆ](https://www.facebook.com/Abaponnaja/)
-+ [แปลเองก็ได้](https://www.facebook.com/translatekordai)
 
 ###### ขอบคุณภาพกราฟฟิกโลโก้สวย ๆ
 + [Pingoriginal](https://www.facebook.com/pingpongoriginal) คนทำภาพ #Mugglethai
