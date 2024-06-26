@@ -11,6 +11,11 @@
 - เวอร์ชันนี้จะไม่มีการดัดแปลงป้าย
 - ดาวน์โหลดป้ายภาษาไทยได้ที่ https://www.nexusmods.com/hogwartslegacy/mods/1409
 
+![Screenshot 2024-06-26 153358](https://github.com/Nasz/Hogwarts-Legacy-Thai-Localization-Mod/assets/384751/ef1a54da-61bc-48cf-97cc-e3d14383c448)
+![Screenshot 2024-06-26 153810](https://github.com/Nasz/Hogwarts-Legacy-Thai-Localization-Mod/assets/384751/de0fd8b2-c22d-4af6-bb8a-476d18411aea)
+![Screenshot 2024-06-26 153722](https://github.com/Nasz/Hogwarts-Legacy-Thai-Localization-Mod/assets/384751/01c1dd48-0d3a-4224-9343-6d76c3e87794)
+
+
 ## === ร่วมมอบประสบการณ์ภาษาไทยโดย ===
 
 ###### ขอขอบคุณ ผู้แปล ผู้ตรวจทาน และ นักม็อด
